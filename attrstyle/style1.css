@@ -1,0 +1,6 @@
+table{
+    background-color: aqua;
+}
+table[border]{
+    background-color: bisque;
+}
